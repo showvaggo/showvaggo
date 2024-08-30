@@ -1,6 +1,6 @@
 package practice_01_java_method;
 
-import java.security.PublicKey;
+
 
 public class Showndorjo1 {
 	public String reletion="My doughter";
